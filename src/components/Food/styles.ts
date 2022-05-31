@@ -1,7 +1,5 @@
 import styled, { css } from 'styled-components';
 
-// import { FoodType } from './index'
-
 interface ContainerProps {
   available: boolean;
 }
